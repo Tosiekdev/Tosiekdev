@@ -8,6 +8,7 @@ I'm just a universyty student interested in programming.
 - 📫 How to reach me: example@example.com
 - ⚡ Fun fact: I'm nerd
 
+[My GitHub webiste](https://tosiekdev.github.io/)
 [Website crated with Microsoft Azure](https://githubtosiekdev.z1.web.core.windows.net/)
 
 [Fork repozytorium](https://github.com/Tosiekdev/GFPGAN)
