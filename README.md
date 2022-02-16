@@ -8,6 +8,5 @@ I'm just a universyty student interested in programming.
 - ⚡ Fun fact: I'm nerd
 
 [My GitHub webiste](https://tosiekdev.github.io/) <br />
-[Website crated with Microsoft Azure](https://githubtosiekdev.z1.web.core.windows.net/)
 
 [Fork repozytorium](https://github.com/Tosiekdev/GFPGAN)
