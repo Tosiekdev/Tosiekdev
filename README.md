@@ -11,4 +11,4 @@ At this moment I can write, I have hope, good program with C++, I know basics of
 - 🤔 I’m looking for help with mastering C++
 - ⚡ Fun fact: I haven't know for a long time that C++ has such developed standard libraries (but now I catched up)
 
-[My GitHub webiste](https://tosiekdev.github.io/) <br />
+[My GitHub webiste](https://tosiekdev.github.io/) //don't look at it yet<br />
