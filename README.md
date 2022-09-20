@@ -6,7 +6,7 @@ Currently, I'm a member of the research group that is creating computer and mobi
 
 At this moment I can write, I have hope, a good program with C++, I know the basics of Python and C, and I wrote some lines of code in C#. Currently, I use 3 of these languages, C++ for my own projects, python for university, and C# for the research group.
 
-- 🌱 -I'm currently learning how to add GUI to C++ and python programs
+- 🌱 I'm currently learning how to add GUI to C++ and python programs
 - 👯 I’m looking to collaborate on video games
 - 🤔 I’m looking for help with mastering C++
 - ⚡ Fun fact: I haven't known for a long time that C++ has such developed standard libraries (but now I caught up)
