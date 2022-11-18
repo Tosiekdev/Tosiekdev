@@ -11,4 +11,4 @@ At this moment I can write, I have hope, a good program with C++, I know the bas
 - 🤔 I’m looking for help with mastering C++
 - ⚡ Fun fact: I haven't known for a long time that C++ has such developed standard libraries (but now I caught up)
 
-[My GitHub webiste](https://tosiekdev.github.io/) //don't look at it yet<br />
+[Short tutorial in polish how to set up GLFW with cmake](https://tosiekdev.github.io/) 
