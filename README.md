@@ -1,6 +1,6 @@
 # Hello there 👋
 
-I'm a student in the second year of Computer Science and Intelligent Systems at AGH University of Science and Technology. I'm interested in creating GUI in C++ program from scratch(SFML), or even lower(OpenGL), and sometimes higher(with help of Dear ImGUI). Also, I like to develop video games and in the future maybe even game engines. Moreover, I'm passionate about Math, and love to learn calculus. I hope that someday this knowledge will help me a lot in achieving my goals.
+I'm a student in the third year of Computer Science and Intelligent Systems at AGH University of Science and Technology. I'm interested in creating GUI in C++ program from scratch(SFML), or even lower(OpenGL), and sometimes higher(with help of Dear ImGUI). Also, I like to develop video games and in the future maybe even game engines. Moreover, I'm passionate about Math, and love to learn calculus. I hope that someday this knowledge will help me a lot in achieving my goals.
 
 Currently, I'm a member of the research group that is creating computer and mobile games at my University. This is helping me gain new programming and game development skills, including working with a complex game engine(Unity).
 
